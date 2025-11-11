@@ -8,6 +8,10 @@ This is a HTML/CSS solution to the [QR code component to improve my FE skills]
 
 ![Screenshot preview for the QR code component](./screenshot.png)
 
+### Live demo
+
+https://dlnthanh262.github.io/qr-code-component/
+
 ## Front-end Style Guide
 
 ### Colors
