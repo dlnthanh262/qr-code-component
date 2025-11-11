@@ -6,7 +6,7 @@ This is a HTML/CSS solution to the [QR code component to improve my FE skills]
 
 ### Screenshot
 
-![Screenshot preview for the QR code component](./screenshot.jpg)
+![Screenshot preview for the QR code component](./screenshot.png)
 
 ## Front-end Style Guide
 
